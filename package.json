@@ -1,0 +1,30 @@
+{
+    "name": "stackage-vue",
+    "type": "module",
+    "version": "0.0.1",
+    "description": "Convention-based ORM interaction for your SPA",
+    "main": "index.js",
+    "peerDependencies": {
+        "stackage-js": "file:../stackage-js",
+        "vue": "^3.5.27"
+    },
+    "exports": {
+        ".": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/freer4/stackage-vue.git"
+    },
+    "keywords": [
+    ],
+    "author": "Freer4",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/freer4/stackage-vue/issues"
+    },
+    "homepage": "https://stackagejs.com"
+  }
+  
